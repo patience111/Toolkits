@@ -26,4 +26,6 @@ p:在当前光标处下面粘贴内容
 * Subject-specific mailing lists like R-SIG-mixed-models<br>https://stat.ethz.ch/mailman/listinfo/r-sig-mixed-models
 * ggplot2<br> https://groups.google.com/forum/#!forum/ggplot2
 * Local user groups<br> https://blog.revolutionanalytics.com/local-r-groups.html
-
+* Produce html of pdf reports<br>https://yihui.name/knitr/
+* Create interactive websites<br>https://www.rstudio.com/shiny/
+* Rpub<br>https://rpubs.com/
