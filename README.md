@@ -21,3 +21,9 @@ p:在当前光标处下面粘贴内容
 * ggtree http://www.bioconductor.org/packages/3.7/bioc/vignettes/ggtree/inst/doc/ggtree.html#introduction
 ## Command line
 * Rename a file or a folder <br> mv oldfilename newfilename
+##R 
+* R helping mailing list<br>https://stat.ethz.ch/mailman/listinfo/r-help
+* Subject-specific mailing lists like R-SIG-mixed-models<br>https://stat.ethz.ch/mailman/listinfo/r-sig-mixed-models
+* ggplot2<br> https://groups.google.com/forum/#!forum/ggplot2
+* Local user groups<br> https://blog.revolutionanalytics.com/local-r-groups.html
+
