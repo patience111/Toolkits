@@ -29,3 +29,4 @@ p:在当前光标处下面粘贴内容
 * Produce html of pdf reports<br>https://yihui.name/knitr/
 * Create interactive websites<br>https://www.rstudio.com/shiny/
 * Rpub<br>https://rpubs.com/
+* How to make a great R reproducible example?<br>https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example
